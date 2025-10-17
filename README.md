@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="center">
+  
+</div>
 
-<!--
-**shakawatullah-tanin/shakawatullah-tanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<br clear="both">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi 👋! I'm Shakawatullah Tanin<br>MERN stack Learner</h1>
+
+###
+
+<h3 align="center">👋 Welcome to My GitHub Profile!</h3>
+
+###
+
+<p align="left">Contact :</p>
+
+###
+
+<p align="left">Email : mdshakawatullahtanin23@gmail.com<br>location : Mymensingh,  Bangladesh </p>
+
+###
+
+<h1 align="center">About ME</h1>
+
+###
+
+<p align="center">Hi, I'm Tanin – a passionate web development learners specializing in React, Tailwind CSS, and Firebase.   <br>💡 Always eager to learn new technologies and improve my problem-solving skills.  <br>💙 Currently working on innovative projects that blend creativity with functionality.  <br>🌟 My goal to create meaningful digital experiences while constantly envolving as a developer.</p>
+
+###
+
+<h2 align="left">Current Activities</h2>
+
+###
+
+<p align="left">I'm focusing on learning MERN stack development</p>
+
+###
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=abuhayat02&theme=react&show_icons=true&hide_border=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhayat02&theme=react&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhayat02&theme=react&hide_border=true&layout=compact" />
+</p>
+###
+
+### 🛠 Skills
+
+**Frontend:**  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" />
+</div>
+
+
+**Tools & Others:**  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
+</div>
