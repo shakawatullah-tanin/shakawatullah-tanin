@@ -30,11 +30,11 @@
 
 ###
 
-<h2 align="left">Current Activities</h2>
+<h2 align="center">Current Activities</h2>
 
 ###
 
-<p align="left">I'm focusing on learning MERN stack development</p>
+<p align="center">I'm focusing on learning MERN stack development</p>
 
 ###
 <p >
