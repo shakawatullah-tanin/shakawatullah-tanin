@@ -37,7 +37,7 @@
 <p align="center">I'm focusing on learning MERN stack development</p>
 
 ###
-<p >
+<p align ="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shakawatullah-tanin&theme=react&show_icons=true&hide_border=true&count_private=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakawatullah-tanin&theme=react&hide_border=true" />
