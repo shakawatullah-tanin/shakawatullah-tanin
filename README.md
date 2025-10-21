@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h1 align="center">Hi 👋! I'm Shakawatullah Tanin<br>MERN stack Learner</h1>
+<h1 align="center"> I'm Shakawatullah Tanin<br>MERN stack Learner</h1>
 
 ###
 
