@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">Welcome to My GitHub Profile!</h3>
+<h3 align="center"> <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"></img> Hey! Nice to see you.</h3>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">Hi, I'm Tanin – a passionate web development learners specializing in React, Tailwind CSS, and Firebase.   <br> Always eager to learn new technologies and improve my problem-solving skills.  <br> Currently working on innovative projects that blend creativity with functionality.  <br> My goal to create meaningful digital experiences while constantly envolving as a developer.</p>
+<p align="center">I'm Tanin – a passionate web development learners specializing in React, Tailwind CSS, and Firebase.   <br> Always eager to learn new technologies and improve my problem-solving skills.  <br> Currently working on innovative projects that blend creativity with functionality.  <br> My goal to create meaningful digital experiences while constantly envolving as a developer.</p>
 
 ###
 
