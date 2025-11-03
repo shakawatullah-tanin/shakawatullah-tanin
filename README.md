@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">I'm Tanin – a passionate web development learners specializing in React, Tailwind CSS, and Firebase.   <br> Always eager to learn new technologies and improve my problem-solving skills.  <br> Currently working on innovative projects that blend creativity with functionality.  <br> My goal to create meaningful digital experiences while constantly envolving as a developer.</p>
+<p align="center">I'm a passionate web development learners specializing in React, Tailwind CSS, and Firebase.   <br> Always eager to learn new technologies and improve my problem-solving skills.  <br> Currently working on innovative projects that blend creativity with functionality.  <br> My goal to create meaningful digital experiences while constantly envolving as a developer.</p>
 
 ###
 
