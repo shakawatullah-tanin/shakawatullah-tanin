@@ -20,9 +20,6 @@
 
 <p align="left">Email : mdshakawatullahtanin23@gmail.com<br>location : Mymensingh,  Bangladesh </p>
 
-###
-
-<h1 align="center">About ME</h1>
 
 ###
 
