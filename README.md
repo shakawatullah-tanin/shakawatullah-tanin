@@ -14,12 +14,6 @@
 
 ###
 
-<p align="left">Contact :</p>
-
-###
-
-<p align="left">Email : mdshakawatullahtanin23@gmail.com<br>location : Mymensingh,  Bangladesh </p>
-
 
 ###
 
@@ -60,3 +54,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
 </div>
+
+<p align="left">Contact :</p>
+
+###
+
+<p align="left">Email : mdshakawatullahtanin23@gmail.com<br>location : Mymensingh,  Bangladesh </p>
+
